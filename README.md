@@ -4,7 +4,7 @@ This repository contains the teaching material of the machine learning course I 
 ## Course description
 This course aims to cover the fundamental concepts of machine learning in economics and their practical applications. It aims to provide an introduction to basic and key principles of machine learning, as well as potential utilization for economists.  This course will not cover any details of algorithms and computational issues – there are many specialised courses from Computer Science that go into these details. 
 
-You can find the syllabus [here](https://github.com/jdnmiguel/Applied-ML/tree/main/syllabus.pdf).
+You can find the syllabus [here](https://github.com/jdnmiguel/Applied-ML/tree/main/Syllabus.pdf).
 
 ## Assignment 
 There will be a problem set due at the end of the semester. More details to come.
