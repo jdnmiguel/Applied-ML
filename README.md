@@ -11,7 +11,8 @@ There will be a problem set due at the end of the semester. More details to come
 
 ## Main references
  I am relying heavily on the James, Witten, Hastie, Tibshirani, and Taylor (2023)'s textbook for explaining the key concepts. You can find the textbook directly on their [website](https://www.statlearning.com). 
-In addition, I relied on [Matteo Courthoud for double selection and DDML](https://matteocourthoud.github.io/course/ml-econ/) [Paul Schrimpf's notes to implement General Machine Learning](https://economics.ubc.ca/profile/paul-schrimpf/), and [the Mixtape's codes for causal forests](https://github.com/Mixtape-Sessions/Heterogeneous-Effects/tree/main).
+ 
+In addition, I relied on [Matteo Courthoud for double selection and DDML](https://matteocourthoud.github.io/course/ml-econ/), [Paul Schrimpf's notes to implement General Machine Learning](https://economics.ubc.ca/profile/paul-schrimpf/), and [the Mixtape's codes for causal forests](https://github.com/Mixtape-Sessions/Heterogeneous-Effects/tree/main).
  ## Lectures
 
  ### 1 Class overview and technical assistance
