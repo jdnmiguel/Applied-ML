@@ -1,4 +1,4 @@
-# Introduction to Machine Learning for Economists 
+# Introduction to R and Machine Learning for Economists 
 This repository contains the teaching material of the introduction to R and machine learning course [Mathilde Col](https://mathildecol.github.io) and I are teaching at the University of Addis Ababa. 
 
 ## Course description
@@ -20,7 +20,7 @@ In addition, we relied on [Matteo Courthoud for double selection and DDML](https
 
 
  ### 1. Being familiar with R and data manipulation 
-- 
+- [Slides](https://github.com/jdnmiguel/Applied-ML/tree/main/session1/1_Intro_R.pdf) 
 
 ### 2. Cleaning and analysis 
 
