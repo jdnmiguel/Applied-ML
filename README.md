@@ -4,7 +4,7 @@ This repository contains the teaching material of the introduction to R and mach
 ## Course description
 This course aims to provide a complete introduction to programming in R and to fundamental concepts of machine learning in economics, with practical applications. The first part of this course covers the basics of using RStudio, creating variables, working with data frames, data analysis, and data visualization. The second part aims to provide an introduction to the basic and key principles of machine learning, as well as its potential applications for economists.
 
-You can find the syllabus [here](https://github.com/jdnmiguel/Applied-ML/tree/main/Syllabus_AAU.pdf).
+You can find the syllabus [here](https://github.com/jdnmiguel/intro_r_ml/tree/main/Syllabus_AAU.pdf).
 
 ## Main references
 
@@ -16,11 +16,11 @@ In addition, we relied on [Matteo Courthoud for double selection and DDML](https
  ## Lectures
 
  ### Before the first class 
-- Check [this document](https://github.com/jdnmiguel/Applied-ML/tree/main/setup.pdf) to set up R and R studio on your device. 
+- Check [this document](https://github.com/jdnmiguel/intro_r_ml/tree/main/setup.pdf) to set up R and R studio on your device. 
 
 
  ### 1. Being familiar with R and data manipulation 
-- [Slides](https://github.com/jdnmiguel/Applied-ML/tree/main/session1/1_Intro_R.pdf) 
+- [Slides](https://github.com/jdnmiguel/intro_r_ml/tree/main/session1/1_Intro_R.pdf) 
 
 ### 2. Cleaning and analysis 
 
