@@ -1,0 +1,5 @@
+name,region,country,latitude,longitude,location_type,conflict_date,population
+Addis Ababa,Addis Ababa,Ethiopia,8.978098143949728,38.75857450155794,town,0,0
+Mekele,Mekele,Ethiopia,13.495486756898567,39.46589089154361,town,0,0
+Dire Dawa,Dire Dawa,Ethiopia,9.602835645348511,41.85443640082678,town,0,0
+Adama,Adama,Ethiopia,8.526471189559459,39.25963003366467,town,0,0
